@@ -3,5 +3,13 @@
 
     <string name="balance">Balance</string>
     <string name="balance_value">0</string>
+    <string name="article_type_label">Article type</string>
+    <string name="sum_of_article_label">Sum of article</string>
+    <string name="comment_of_article_label">Comment of article</string>
     <string name="action_settings">Settings</string>
+
+    <string-array name="article_types">
+        <item>Profit</item>
+        <item>Loss</item>
+    </string-array>
 </resources>
