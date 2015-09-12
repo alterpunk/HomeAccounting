@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeAccounting</string>
+
+    <string name="balance">Balance</string>
+    <string name="balance_value">0</string>
+    <string name="action_settings">Settings</string>
+</resources>
