@@ -5,6 +5,7 @@
     <string name="balance_value">0</string>
     <string name="article_type_label">Article type</string>
     <string name="sum_of_article_label">Sum of article</string>
+    <string name="category_of_article_label">Category of article</string>
     <string name="comment_of_article_label">Comment of article</string>
     <string name="action_settings">Settings</string>
 
